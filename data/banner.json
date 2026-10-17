@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "LEADS",
+  "PIPELINE",
+  "OUTREACH",
+  "DEALS",
+  "CRM",
+  "ENRICH",
+  "SEQUENCE",
+  "PROSPECT",
+  "QUOTE",
+  "INBOX",
+  "FOLLOW-UP",
+  "SCORE",
+  "CONTACTS",
+  "CALL",
+  "DEMO",
+  "CLOSE"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Sales and Lead Generat",
+  "ion"
+ ],
+ "title_size": 88,
+ "sub1": "CRM  |  OUTREACH  |  ENRICHMENT",
+ "sub2": "LEADS  |  PIPELINE  |  AI",
+ "foot": "Open-source sales software, each checked for license and activity"
+}

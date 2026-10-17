@@ -1,0 +1,274 @@
+[
+  {
+    "repo": "ggml-org/whisper.cpp",
+    "category": "ai",
+    "description": "Fast local transcription in C and C++.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "langchain-ai/langchain",
+    "category": "ai",
+    "description": "Framework for building applications with language models.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openai/whisper",
+    "category": "ai",
+    "description": "General-purpose speech recognition model, useful for call transcripts.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-31"
+  },
+  {
+    "repo": "apache/superset",
+    "category": "analytics",
+    "description": "Data exploration and dashboard platform.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "getredash/redash",
+    "category": "analytics",
+    "description": "Connect to your data sources, query and share dashboards.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "grafana/grafana",
+    "category": "analytics",
+    "description": "Dashboards for metrics and data.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "metabase/metabase",
+    "category": "analytics",
+    "description": "Business intelligence and dashboards for your data.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "PostHog/posthog",
+    "category": "analytics",
+    "description": "Product analytics, session replay and feature flags.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "alextselegidis/easyappointments",
+    "category": "calendar",
+    "description": "Self-hosted appointment scheduler.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "calcom/cal.diy",
+    "category": "calendar",
+    "description": "Open-source scheduling infrastructure, an alternative to Calendly.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-26"
+  },
+  {
+    "repo": "chatwoot/chatwoot",
+    "category": "calendar",
+    "description": "Open-source customer messaging platform with live chat and inbox.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "espocrm/espocrm",
+    "category": "crm",
+    "description": "Open-source CRM platform you can self-host.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "frappe/crm",
+    "category": "crm",
+    "description": "Open-source CRM built on the Frappe framework.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "krayin/laravel-crm",
+    "category": "crm",
+    "description": "Open-source CRM built on Laravel.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "monicahq/monica",
+    "category": "crm",
+    "description": "Personal CRM to remember details about people you know.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "odoo/odoo",
+    "category": "crm",
+    "description": "Open-source business apps with a CRM module.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "SuiteCRM/SuiteCRM",
+    "category": "crm",
+    "description": "Open-source CRM for sales, marketing and support.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "twentyhq/twenty",
+    "category": "crm",
+    "description": "Modern open-source CRM, a community alternative to Salesforce.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mailcheck/mailcheck",
+    "category": "enrich",
+    "description": "Small library that suggests fixes for mistyped email domains.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-15"
+  },
+  {
+    "repo": "python-validators/validators",
+    "category": "enrich",
+    "description": "Python data validation for emails, URLs, IPs and more.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "apify/crawlee",
+    "category": "leads",
+    "description": "Web scraping and crawling library for Node.js.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "laramies/theHarvester",
+    "category": "leads",
+    "description": "Gather public emails, subdomains and names for reconnaissance.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "scrapy/scrapy",
+    "category": "leads",
+    "description": "Fast Python framework for crawling and extracting data from sites.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "sherlock-project/sherlock",
+    "category": "leads",
+    "description": "Find usernames across social networks.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "soxoj/maigret",
+    "category": "leads",
+    "description": "Collect public profile information by username.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "activepieces/activepieces",
+    "category": "outreach",
+    "description": "No-code automation for lead and email workflows.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "knadh/listmonk",
+    "category": "outreach",
+    "description": "Self-hosted newsletter and mailing list manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mautic/mautic",
+    "category": "outreach",
+    "description": "Open-source marketing automation for email, forms and campaigns.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "category": "outreach",
+    "description": "Workflow automation to build outreach and lead routing flows. Fair-code license.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "postalserver/postal",
+    "category": "outreach",
+    "description": "Open-source mail delivery platform.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "documenso/documenso",
+    "category": "quotes",
+    "description": "Open-source document signing platform.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "docusealco/docuseal",
+    "category": "quotes",
+    "description": "Open-source document filling and signing.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "invoiceninja/invoiceninja",
+    "category": "quotes",
+    "description": "Invoicing, quotes and payments for small businesses.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "InvoiceShelf/InvoiceShelf",
+    "category": "quotes",
+    "description": "Open-source invoicing app, continuation of Crater.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  }
+]
